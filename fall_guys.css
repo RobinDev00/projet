@@ -1,0 +1,32 @@
+
+.iframe-container {
+    display: flex;                   
+    justify-content: center;        
+    align-items: center;             
+    height: 100vh;                                      
+    box-sizing: border-box;          
+}
+
+iframe {
+    width: 80%;                      
+    height: 80%;                    
+    border: none;                    
+    max-width: 100%;                
+    max-height: 100%;             
+}
+
+h2 {
+    text-align: center;            
+    margin: 0;                     
+    padding: 20px;                  
+}
+
+p {
+  font-family: 'Press Start 2P', cursive; 
+  font-size: 18px;
+  color: #00FF00; 
+  text-shadow: 1px 1px 2px black; 
+  background-color: #000000; 
+  padding: 10px;
+  border-radius: 5px;
+}
